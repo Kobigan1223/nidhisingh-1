@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Android Development**
 
-- 📝 I regularly write articles on [https://medium.com/@nidhi232singh](https://medium.com/@nidhi232singh)
+- 📝 I regularly write articles on [https://medium.com/@nidhisingh30](https://medium.com/@nidhisingh30)
 
 - 📫 How to reach me **nidhi232singh@gamil.com**
 

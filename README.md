@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **nidhi232singh@gamil.com**
 
+- ⏯ My YouTube Channel [https://www.youtube.com/channel/UCuHfqVy1z0G8OLcqYbqYINw](https://www.youtube.com/channel/UCuHfqVy1z0G8OLcqYbqYINw)
+
 - ⚡ Fun fact **I love doughnuts!🍩**
 
 <h3 align="left">Connect with me:</h3>

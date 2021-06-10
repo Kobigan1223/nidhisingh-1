@@ -1,5 +1,11 @@
-<h1 align="center">Hi 👋, I'm Nidhi!</h1>
-<h3 align="center">As a part of my learning journey, I welcome different opinions, objectives and perspectives from the people around, let's share stories of experiences and grow together, the digital way too!</h3>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/85689352/121548337-91e3e180-ca2a-11eb-93f5-9423de4ca35d.gif" />
+</p>
+
+<h1 align="center">Hello World!👋</h1>
+<h4 align="center">As a part of my learning journey, I welcome different opinions, objectives and perspectives from the people around, let's share stories of experiences and grow together, the digital way too!</h4>
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nidhisingh-1&show_icons=true&locale=en&layout=compact&theme=dracula" alt="noobentity101" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nidhisingh-1&label=Profile%20views&color=0e75b6&style=flat" alt="nidhisingh-1" /> </p>
 

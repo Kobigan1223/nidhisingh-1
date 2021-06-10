@@ -27,3 +27,6 @@
 )
 
 
+
+![Metrics](https://metrics.lecoq.io/nidhisingh-1?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta)
+

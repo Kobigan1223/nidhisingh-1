@@ -26,5 +26,5 @@
 <a href="https://instagram.com/i.nidhisingh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="i.nidhisingh" height="30" width="40" /></a>
 </p>
 
-![Metrics](https://metrics.lecoq.io/nidhisingh-1?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nidhisingh-1&theme=tokyonight)](https://git.io/streak-stats)
 
